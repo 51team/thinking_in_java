@@ -29,7 +29,7 @@ public class FileListenerInit   implements CommandLineRunner {
 
     private FileAlterationObserver observer;
     // 服务器 update 以上路径
-    private static final String FILE_ROOT = "E:\\FileListener01";
+    private static final String FILE_ROOT = "F:\\FileListener01";
 
 
     private static final Long INTERVAL = 500L;
